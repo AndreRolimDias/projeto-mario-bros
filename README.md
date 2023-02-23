@@ -1,11 +1,12 @@
 ## 🌐Projeto Mario Bros
 ### Esse projeto foi construído na base nas aulas da Semana de imersão para programadores iniciantes, com os profissionais: Ricardo Dias e Roberto Dias!
-
-https://github.com/devemdobro
+📚Segui os link's das redes onde vocês poderam encontralos:<br /> 
+https://github.com/devemdobro <br /> https://www.instagram.com/devemdobro/?igshid=OTJlNzQ0NWM%3D <br /> 
+https://www.youtube.com/@DevemDobro
 
 
 <div>
-  <img width="100" src="https://github.com/AndreRolimDias/projeto-mario-bros/blob/main/src/imagens/super-mario-chars.png" alt="">
+  <img width="200" src="https://github.com/AndreRolimDias/projeto-mario-bros/blob/main/src/imagens/super-mario-chars.png" alt="">
 </div>
 
 ### ⚡Link do projeto: https://andrerolimdias.github.io/projeto-mario-bros/
@@ -18,8 +19,10 @@ https://github.com/devemdobro
 
 ## 📱Mobile
 
-<img alt='HTML5' height="450" width="200" src='https://github.com/AndreRolimDias/studion/blob/master/_design/mobile.gif'>S
+<img alt='' height="450" width="200" src='https://github.com/AndreRolimDias/projeto-mario-bros/blob/main/src/video/mario%20mobile.gif'>
 
+
+👩‍💻Com este projeto aprendi novos conceitos de responsividade, manipulação de cores gradientes e manipulação de videos no background e modal  
 
 ## 🚀Tecnologias usadas no projeto:
 
